@@ -1,0 +1,16 @@
+			 WELCOME
+ BILL NUMBER: 82046
+ CUSTOMER NAME: 
+ CUSTOMER PHONE NUMBER: 
+ CUSTOMER EMAIL: 
+==================================================
+ PRODUCTS			QTY			PRICE
+==================================================
+ Levis			1			5000
+ Jack_Jones			1			1800
+
+ =======================================
+ SUB-AMOUNT:			Rs.6800.00
+ TAX-AMOUNT:			Rs.50.00
+ TOTAL-AMOUNT:			Rs.6850.00
+=======================================

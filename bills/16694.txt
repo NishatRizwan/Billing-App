@@ -1,0 +1,16 @@
+			 WELCOME
+ BILL NUMBER: 16694
+ CUSTOMER NAME: nishat rizwan
+ CUSTOMER PHONE NUMBER: 7869928899
+ CUSTOMER EMAIL: jvjjkcnjkdsnc
+==================================================
+ PRODUCTS			QTY			PRICE
+==================================================
+ Santoor			1			30
+ Santoor			2			60
+
+ =======================================
+ SUB-AMOUNT:			Rs.90.00
+ TAX-AMOUNT:			Rs.0.60
+ TOTAL-AMOUNT:			Rs.90.60
+=======================================
